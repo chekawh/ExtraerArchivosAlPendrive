@@ -4,4 +4,6 @@ La funcionalidad de este script es obtener la mayor cantidad de archivos posible
 
 Simplemente debemos de meter el archivo .bat dentro de nuestro pendrive o disco duro externo, ejecutarlo y esperar a que se pase todos los archivos que tengamos en el equipo.
 
+Pueden encontrar el tutorial de ayuda y funcionamiento en mi canal de youtube: https://youtu.be/oFp2BRaDeWk
+
 ** RECORDAR QUE CUALQUIER USO INADECUADO SOBRE EL SCRIPT NO SOY RESPONSABLE DE LOS DAÑOS QUE SE PUEDAN COMETER, TRABAJAR SIEMPRE EN ENTORNOS CONTROLADOS O DONDE TENGAMOS PERMISOS PARA EFECTUARLO ** 
